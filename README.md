@@ -1,5 +1,5 @@
 # 💫 About Me:
-Mostly doing data analyses, databases, shiny apps. Primary language: R
+Mostly doing data analysis, databases, and shiny apps in academic context. Also developing production apps at [palinera](https://www.palinera.com/)
 
 
 ## 🌐 Socials:
