@@ -12,6 +12,3 @@ Mostly doing data analysis, databases, and shiny apps in academic context. Also,
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=EricBollingerResearch&icon=0&color=0)](https://visitcount.itsvg.in)
