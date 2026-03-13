@@ -13,8 +13,5 @@ Mostly doing data analysis, databases, and shiny apps in academic context. Also,
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=EricBollingerResearch&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=EricBollingerResearch&icon=0&color=0)](https://visitcount.itsvg.in)
